@@ -1,2 +1,2 @@
-# thursday--class
+# thursday-class
 take it easy
